@@ -14,18 +14,13 @@
 
 [🔧 Ferramentas para tradução de conteúdo](#-ferramentas-para-tradução-de-conteúdo) <br>
 [👨‍🏫 Sites para estudar programação](#-sites-para-estudar-programação) <br>
-[🎨 Sites para desenvolvedor front-end](#-sites-para-desenvolvedor-front-end) <br>
+
 [🎮 Sites para aprender a programar jogando](#-sites-para-aprender-a-programar-jogando) <br>
 [✨ Templates HTML gratuitos](#-templates-html-gratuitos) <br>
-[🎯 Sites para aprender ou treinar CSS](#-sites-para-aprender-ou-treinar-css) <br>
-[⏰ Geradores de CSS](#-geradores-de-css) <br>
 [🔎 Sites para buscar vagas remotas](#-sites-para-buscar-vagas-remotas) <br>
 [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento) <br>
 [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos) <br>
 [📝 IDEs e editores de código](#-ides-e-editores-de-código) <br>
-[🖌 Design Front-end](#-design-front-end) <br>
-[🔤 Linguagens de programação](#-linguagens-de-programação) <br>
-[📕 Guia de Estilo](#-guia-de-estilo) <br>
 [📁 Desafios](#-desafios) <br>
 [🛠️ Ferramentas para desenvolvedores WEB](#-ferramentas-para-desenvolvedores-web) <br>
 [⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
@@ -54,89 +49,15 @@
 [📙 Sites para treinar projetos mobile](#-sites-para-treinar-projetos-mobile) <br>
 [🗃️ Ideias para projeto](#-ideias-para-projeto) <br>
 [🦓 Sites e cursos para aprender Java](#-sites-e-cursos-para-aprender-java) <br>
-[🐴 Sites e cursos para aprender JavaScript](#-sites-e-cursos-para-aprender-javascript) <br>
-[🐓 Sites e cursos para aprender HTML](#-sites-e-cursos-para-aprender-html) <br>
-[🦄 Sites e cursos para aprender CSS](#-sites-e-cursos-para-aprender-css) <br>
 [🐍 Sites e cursos para aprender Python](#-sites-e-cursos-para-aprender-python) <br>
-[🐘 Sites e cursos para aprender PHP](#-sites-e-cursos-para-aprender-php) <br>
-[🦚 Sites e cursos para aprender C#](#-sites-e-cursos-para-aprender-c) <br>
-[🦉 Sites e cursos para aprender C](#-sites-e-cursos-para-aprender-c-1) <br>
-[🐸 Sites e cursos para aprender C++](#-sites-e-cursos-para-aprender-c-2) <br>
-[🦉 Sites e cursos para aprender Camunda](#-sites-e-cursos-para-aprender-camunda) <br>
-[🐶 Sites e cursos para aprender Kotlin](#-sites-e-cursos-para-aprender-kotlin) <br>
-[🦊 Sites e cursos para aprender Swift](#-sites-e-cursos-para-aprender-swift) <br>
-[🐺 Sites e cursos para aprender Go](#-sites-e-cursos-para-aprender-go) <br>
-[🐦 Sites e cursos para aprender Ruby](#-sites-e-cursos-para-aprender-ruby) <br>
-[💧 Sites e cursos para aprender Elixir](#-sites-e-cursos-para-aprender-elixir) <br>
-[🐷 Sites e cursos para aprender React](#-sites-e-cursos-para-aprender-react) <br>
-[🐼 Sites e cursos para aprender React Native](#-sites-e-cursos-para-aprender-react-native) <br>
-[🐯 Sites e cursos para aprender Angular](#-sites-e-cursos-para-aprender-angular) <br>
-[🐞 Sites e cursos para aprender Vue](#-sites-e-cursos-para-aprender-vue) <br>
-[🦂 Sites e cursos para aprender Svelte](#-sites-e-cursos-para-aprender-svelte) <br>
 [🦞 Sites e cursos para aprender Flutter](#-sites-e-cursos-para-aprender-flutter) <br>
-[🐹 Sites e cursos para aprender jQuery](#-sites-e-cursos-para-aprender-jquery) <br>
-[🐢 Sites e cursos para aprender Less](#-sites-e-cursos-para-aprender-less) <br>
-[🐱 Sites e cursos para aprender Sass](#-sites-e-cursos-para-aprender-sass) <br>
-[🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
-[🐤 Sites e cursos para aprender MySQL](#%EF%B8%8F-sites-e-cursos-para-aprender-mysql) <br>
 [🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
-[🐒 Sites e cursos para aprender TypeScript](#-sites-e-cursos-para-aprender-typescript) <br>
-[🐌 Sites e cursos para aprender Node.js](#-sites-e-cursos-para-aprender-nodejs) <br>
-[🦌 Sites e cursos para aprender Next.js](#-sites-e-cursos-para-aprender-nextjs) <br>
-[🦘 Sites e cursos para aprender Assembly](#-sites-e-cursos-para-aprender-assembly) <br>
-[🦒 Sites e cursos para aprender Lua](#-sites-e-cursos-para-aprender-lua) <br>
-[🐫 Sites e cursos para aprender Perl](#-sites-e-cursos-para-aprender-perl) <br>
-[🐧 Sites e cursos para aprender Linux](#-sites-e-cursos-para-aprender-linux) <br>
-[🦥 Sites e cursos para aprender Ionic](#-sites-e-cursos-para-aprender-ionic) <br>
-[🦦 Sites e cursos para aprender Jira](#-sites-e-cursos-para-aprender-jira) <br>
-[🐭 Sites e cursos para aprender Rust](#-sites-e-cursos-para-aprender-rust) <br>
-[🐁 Sites e cursos para aprender Scala](#-sites-e-cursos-para-aprender-scala) <br>
-[🦝 Sites e cursos para aprender Nuxt.js](#-sites-e-cursos-para-aprender-nuxtjs) <br>
-[🦎 Sites e cursos para aprender Gulp](#-sites-e-cursos-para-aprender-gulp) <br>
 [🐅 Sites e cursos para aprender MongoDB](#-sites-e-cursos-para-aprender-mongodb) <br>
-[🦩 Sites e cursos para aprender GraphQL](#-sites-e-cursos-para-aprender-graphql) <br>
-[🦙 Sites e cursos para aprender Cassandra](#-sites-e-cursos-para-aprender-cassandra) <br>
-[🦛 Sites e cursos para aprender SQL Server](#-sites-e-cursos-para-aprender-sql-server) <br>
-[🐐 Sites e cursos para aprender Postgree SQL](#-sites-e-cursos-para-aprender-postgree-sql) <br>
-[🐑 Sites e cursos para aprender Delphi](#-sites-e-cursos-para-aprender-delphi) <br>
-[🐊 Sites e cursos para aprender Wordpress](#-sites-e-cursos-para-aprender-wordpress) <br>
 [🐳 Sites e cursos para aprender Docker](#-sites-e-cursos-para-aprender-docker) <br>
 [🦜 Sites e cursos para aprender Kubernets](#-sites-e-cursos-para-aprender-kubernets) <br>
-[🐆 Sites e cursos para aprender Nest](#-sites-e-cursos-para-aprender-nest) <br>
-[🐿 Sites e cursos para aprender Laravel](#-sites-e-cursos-para-aprender-laravel) <br>
 [🐃 Sites e cursos para aprender AWS](#-sites-e-cursos-para-aprender-aws) <br>
-[🐬 Sites e cursos para aprender Google Cloud](#-sites-e-cursos-para-aprender-google-cloud) <br>
-[🦆 Sites e cursos para aprender Azure](#-sites-e-cursos-para-aprender-azure) <br>
-[🦅 Sites e cursos para aprender Django](#-sites-e-cursos-para-aprender-django) <br>
-[🐏 Sites e cursos para aprender Gatsby](#-sites-e-cursos-para-aprender-gatsby) <br>
-[🐂 Sites e cursos para aprender ASP.net](#-sites-e-cursos-para-aprender-aspnet) <br>
-[🐖 Sites e cursos para aprender Inteligência Artificial](#-sites-e-cursos-para-aprender-inteligência-artificial) <br>
-[🦀 Sites e cursos para aprender Machine Learning](#-sites-e-cursos-para-aprender-machine-learning) <br>
-[🦑 Sites e cursos para aprender Data Science](#-sites-e-cursos-para-aprender-data-science) <br>
-[🐙 Sites e cursos para aprender NumPy](#-sites-e-cursos-para-aprender-numpy) <br>
-[🦃 Sites e cursos para aprender Pandas](#-sites-e-cursos-para-aprender-pandas) <br>
-[🐟 Sites e cursos para aprender XML](#-sites-e-cursos-para-aprender-xml) <br>
-[🦢 Sites e cursos para aprender Jenkins](#-sites-e-cursos-para-aprender-jenkins) <br>
-[🐩 Sites e cursos para aprender Xamarin](#sites-e-cursos-para-aprender-xamarin) <br>
-[🦁 Sites e cursos para aprender Matlab](#sites-e-cursos-para-aprender-matlab) <br>
-[🦨 Sites e cursos para aprender Julia](#sites-e-cursos-para-aprender-julia) <br>
-[🐨 Sites e cursos para aprender PowerShell](#-sites-e-cursos-para-aprender-powershell) <br>
-[🐥 Sites e cursos para aprender Flask](#-sites-e-cursos-para-aprender-flask) <br>
-[🐔 Sites e cursos para aprender Spring](#-sites-e-cursos-para-aprender-spring) <br>
-[🐗 Sites e cursos para aprender Tailwind CSS](#-sites-e-cursos-para-aprender-tailwind-css) <br>
-[🦐 Sites e cursos para aprender Styled Components](#-sites-e-cursos-para-aprender-styled-components) <br>
-[🐎 Sites e cursos para aprender Magento](#-sites-e-cursos-para-aprender-magento) <br>
-[🐜 Sites e cursos para aprender ArangoDB](#-sites-e-cursos-para-aprender-arangodb) <br>
 [📚 Sites e cursos para aprender Linha de comando](#-sites-e-cursos-para-aprender-linha-de-comando) <br>
 
-## 🔧 Ferramentas para tradução de conteúdo
-
-> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do seu, desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de tecnologia independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
-
-- [Google Translate](https://translate.google.com.br/?hl=pt-BR)
-- [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
-- [DeepL](https://www.deepl.com/pt-BR/translator)
-- [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
 
 ## 👨‍🏫 Sites para estudar programação
 
@@ -177,15 +98,6 @@
 - [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Site com os principais conteúdos referentes a desenvolvimento web criado e mantido por um dos professores do site Frontend Masters (EN)
 - [4noobs](https://github.com/he4rt/4noobs) - Repositório desenvolvido para mostrar os conhecimentos básicos em diversas linguagens e ferramentas para desenvolvedores iniciantes.
 
-## 🎨 Sites para desenvolvedor front-end
-
-- [Uiverse](https://uiverse.io/) - Rede social de elementos de interfaces.
-- [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG
-- [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web)
-- [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar)
-- [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario)
-- [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais)
-- [Meta Tags](https://metatags.io/) - Elementos de metadados HTML gerados automaticamente para melhor o SEO
 
 ## 🎮 Sites para aprender a programar jogando
 
@@ -201,51 +113,8 @@
 - [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Ataque inimigos enquanto treina práticas de CSS, com uma narrativa mais profunda
 - [Code](https://code.org/minecraft) - Site para estudos de algoritmos com a temática do jogo Minecraft
 
-## ✨ Templates HTML gratuitos
 
-- [Bootstrap Made](https://bootstrapmade.com/) - Temas HTML5 + CSS3 gratuitos
-- [W3 Layouts](https://w3layouts.com) - Temas HTML5 + CSS3 gratuitos
-- [One Page Love](https://onepagelove.com) - Temas HTML5 + CSS3 gratuitos
-- [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
-- [HTML5 UP](https://html5up.net/) - Temas HTML5 + CSS3 gratuitos
 
-## 🎯 Sites para aprender ou treinar CSS
-
-- [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
-- [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
-- [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
-- [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
-- [100 Dias de CSS](https://100dayscss.com) - 100 Desafios de CSS
-- [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
-- [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar
-- [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los
-
-## ⏰ Geradores de CSS
-
-- [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
-- [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
-- [WAIT! Animate](https://waitanimate.wstone.io) - Gerador de animações de CSS
-- [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de botões do CSS
-- [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS
-- [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path
-- [Animista](https://animista.net) - Criador de animações
-
-## 🔎 Sites para buscar vagas remotas
-
-- [BairesDev](https://www.bairesdev.com)
-- [Bergamot](https://bergamot.io)
-- [Coodesh](https://coodesh.com)
-- [Há Vagas](https://havagas.pt)
-- [Hired](https://hired.com)
-- [JustRemote](https://justremote.co)
-- [Programathor](https://programathor.com.br/)
-- [Remotar](https://remotar.com.br)
-- [Remote OK](https://remoteok.io)
-- [Strider](https://www.onstrider.com/)
-- [Toptal](https://www.toptal.com)
-- [Turing](https://www.turing.com)
-- [Working Nomads](https://workingnomads.co)
-- [X-Team](https://x-team.com)
 
 ## 🔧 Ferramentas de desenvolvimento:
 
@@ -384,94 +253,16 @@
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
 
-## 🖌 Design Front-end
 
-- [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
-- [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
-- [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
-- [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
-- [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
-- [Canva](https://www.canva.com/) - Ferramenta de design online
-- [Chart.js](https://www.chartjs.org/) - Biblioteca JavaScript de criação de gráficos
-- [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
-- [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
-- [Colors lol](https://colors.lol) - Repositório de paletas de cores
-- [Cruip](https://cruip.com/) - Recursos de templates
-- [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
-- [CSS Layout](https://csslayout.io/) - Layouts e padrões populares feitos com CSS
-- [CSS Reference](https://cssreference.io/) - Guia visual para CSS com referencias de uso
-- [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
-- [DevSamples](https://www.devsamples.com/) - Exemplos de códigos fáceis de usar para HTML, CSS e JavaScript
-- [Excalidraw](https://excalidraw.com) - Desenhe diagramas como se tivessem sido feitos a mão
-- [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
-- [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
-- [Flatui Color Picker](http://www.flatuicolorpicker.com/) - Paleta de cores interativa de forma harmonizar o front
-- [Font Flipper](https://fontflipper.com/) - Ferramenta para testar fontes
-- [FontPair](https://fontpair.co/) - Ferramenta para combinações de fontes
-- [FontSpark](https://fontspark.app/) - Gera fontes aleatórias de uma lista de fontes famosas usadas na web
-- [Foundation](https://foundation.zurb.com/) - Framework responsivo
-- [Framer](https://www.framer.com/) - Ferramenta de criação de interfaces interativas
-- [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
-- [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
-- [Grid Layoutit](https://grid.layoutit.com/) - Gerador de grid para código CSS
-- [HTML DOM](https://htmldom.dev/) - Gerenciar o DOM HTML com JavaScript vanilla
-- [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
-- [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
-- [Invision](https://www.invisionapp.com/) - Software de design para projetos
-- [Lottie](https://lottiefiles.com/) - Animações em after effects via json
-- [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
-- [Material-UI](https://material-ui.com/) - Um framework de interface de usuário para React
-- [Mockup](https://mockup.io/about/) - Visualize e colabore no design de aplicativos para dispositivos móveis
-- [Nes.css](https://nostalgic-css.github.io/NES.css/) - Framework CSS estilo NES
-- [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
-- [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
-- [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
-- [Pixlr](https://pixlr.com/br/) - Conjunto de ferramentas e utilitários de edição de imagem baseado em nuvem
-- [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
-- [Pure.css](https://purecss.io/) - Framework CSS responsivo
-- [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
-- [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
-- [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
-- [SweetAlert2](https://sweetalert2.github.io/) - Biblioteca JavaScript de alertas responsivos e customizáveis
-- [Tailwind CSS](https://tailwindcss.com/) - Framework de estilo CSS
-- [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
-- [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
-- [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
-- [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens
 
 ## 🔤 Linguagens de programação
 
-- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
-- [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
-- [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
-- [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional, concorrente, de propósito geral que executa na máquina virtual Erlang (BEAM)
-- [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
-- [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas
-- [Go](https://golang.org/) - Linguagem de código aberto para tornar os programadores mais produtivos
-- [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada
 - [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
-- [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
-- [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica
-- [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ
-- [Lua](https://www.lua.org/portugues.html) - Linguagem de programação originária do Brasil, permite programação procedural e POO (popular em jogos)
-- [MatLab](https://www.mathworks.com/help/matlab/) - Linguagem de programação de alto nível com foco em cálculos e construção de gráficos
-- [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos
-- [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
-- [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 - [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial, aprendizado de máquina e chatbots
-- [R](https://cran.r-project.org/) - Linguagem de programação com foco em matemática, estatística, ciência de dados e aprendizagem de máquina
-- [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
-- [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem estáticamente tipada para sistemas rápidos, concorrentes, de baixo nível e seguros
-- [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
-- [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura
-- [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica)
 
 ## 📕 Guia de Estilo
 
-- [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb
-- [Airbnb - Ruby](https://github.com/airbnb/ruby) - Guia de estilo de código em Ruby do Airbnb
 - [Google - Boas práticas em Engenharia](https://github.com/google/eng-practices) - Boas práticas de Engenharia utilizadas pelos internos da Google
-- [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
 - [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
 - [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google
 
@@ -515,11 +306,7 @@
 - [URI/Beecrowd](https://www.beecrowd.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada
 - [OsProgramadores](https://osprogramadores.com/desafios/) - Desafios de Lógica de Programação do grupo Os Programadores.
 
-## 🛠️ Ferramentas para desenvolvedores WEB
 
-- [Minimamente](https://www.minimamente.com/project/magic/)
-- [Hamburgers](https://jonsuh.com/hamburgers/)
-- [Hover Effects](https://ianlunn.github.io/Hover/)
 
 ## ⚒ Ferramentas para buscar projetos open source
 
@@ -546,86 +333,7 @@
 - [Zorin OS](https://zorin.com/os/) - Distribuição Linux Zorin
 - [Kubuntu](https://kubuntu.org/) - Distribuição Linux Kubuntu
 
-## 🔗 Bibliotecas JavaScript
 
-- [Lax.js](https://github.com/alexfoxy/lax.js)
-- [Swiper](https://swiperjs.com/)
-- [WOW](https://wowjs.uk/)
-- [Animate](https://animate.style/)
-- [ApexCharts](https://apexcharts.com/)
-- [Particles.js](https://vincentgarreau.com/particles.js/)
-- [ScrollMagic](https://scrollmagic.io/)
-
-## ⚙️ 9 Ferramentas que todo DEV precisa conhecer
-
-- [Unminify](https://unminify.com/) - Ferramenta desofuscação de códigos.
-- [Figma](https://www.figma.com) - ferramenta para design de interfaces.
-- [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's.
-- [Rive](https://rive.app) - ferramenta colaborativa de animação para apps, jogos e sites.
-- [CloudCraft](https://www.cloudcraft.co) - plataforma com foco em criar desenhos de arquiteturas AWS.
-- [BundlePhobia](https://bundlephobia.com) - site para descobrir o custo de adicionar um npm package no seu pacote.
-- [Font Flipper](https://fontflipper.com) - Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts.
-- [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos.
-- [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP.
-- [SmallDevTools](https://smalldev.tools/) - Ferramentas GRATUITAS para desenvolvedores, como codificador/decodificador, formatadores HTML/CSS/Javascript, minificadores, geradores de dados falsos ou de teste &amp; muito mais
-
-## 🎭 Sites para praticar UI/UX
-
-- [Sharpen](https://sharpen.design/)
-- [Daily UI](https://www.dailyui.co/)
-- [UX Challenges](https://uxtools.co/challenges)
-- [Drawerrr](https://drawerrr.com/challenge)
-- [Uplabs](https://www.uplabs.com/challenges)
-
-## ☁ Ferramentas para hospedar seu site
-
-- [Github Pages](https://pages.github.com/) - Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor
-- [Award Space](https://www.awardspace.com/) - Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios
-- [Byet](https://byet.host/) - Hospedagem Gratuita e Serviços de Hospedagem Premium.
-- [Infinity Free](https://infinityfree.net/) - Free Unlimited Web Hosting
-- [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
-- [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
-- [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
-- [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
-- [DreamHost](https://www.dreamhost.com/) - Hospedagem de sites de alta disponibilidade
-- [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
-- [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional
-- [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
-- [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
-- [Heroku](https://www.heroku.com/) - Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure
-- [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
-- [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
-- [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
-- [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios
-- [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
-- [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
-- [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites)
-- [Oracle Cloud](https://www.oracle.com/br/cloud/) - Serviço de aluguel de servidores da Oracle
-- [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
-- [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
-- [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless
-
-## 🌌 Sites para inspirar o seu desenvolvimento
-
-- [Product Hunt](https://www.producthunt.com/)
-- [Namify](https://namify.tech/?ref=producthunt)
-- [Dribbble](https://dribbble.com/)
-- [Behance](https://www.behance.net/)
-- [Pinterest](https://br.pinterest.com/)
-- [Deviant Art](https://www.deviantart.com/)
-- [Lapa](https://www.lapa.ninja/)
-- [Hyper Pixel](https://hyperpixel.io/)
-- [One Page Love](https://onepagelove.com/)
-- [One Page Love Avatars](https://onepagelove.com/boring-avatars)
-- [Land Book](https://land-book.com/)
-- [Awwwards](https://www.awwwards.com)
-- [Best Folios](https://www.bestfolios.com/home)
-- [Sitesee](https://sitesee.co/)
-- [Httpster](https://httpster.net/2021/jun/)
-- [Builders Club](https://builders-club.com/)
-- [CSS Nectar](https://cssnectar.com/)
-- [Collect UI](https://collectui.com)
-- [Best Web Site](https://bestwebsite.gallery)
 
 ## 📮 Banco de imagens gratuitas
 
@@ -683,35 +391,7 @@
 - [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 - [OsProgramadores](https://t.me/osprogramadores) - Grupo para incentivar o aprendizado de programação.
 
-## 🎠 Sites para baixar e encontrar fontes
 
-- [Adobe Fonts](https://fonts.adobe.com/)
-- [Google fonts](https://fonts.google.com/)
-- [Dafont](https://www.dafont.com/pt/)
-- [NetFontes](https://www.netfontes.com.br/)
-- [Urbanfonts](https://www.urbanfonts.com/pt/)
-- [Befonts](https://befonts.com/)
-- [Fonts space](https://www.fontspace.com/)
-- [1001 fonts](https://www.1001fonts.com/)
-- [Abstract fonts](https://www.abstractfonts.com/)
-- [Fontget](https://www.fontget.com/)
-- [Material Design Icons](https://materialdesignicons.com/)
-
-## 🧵 Sites de paletas de cores
-
-- [Paletton](https://paletton.com/)
-- [Adobe Color](https://color.adobe.com/pt/create/color-wheel/)
-- [Color Hunt](https://colorhunt.co/)
-- [Happy Hues](https://www.happyhues.co/)
-- [Coolors](https://coolors.co/)
-- [Gradient Hunt](https://gradienthunt.com/)
-- [Flat UI Colors](https://flatuicolors.com/)
-- [Grabient](https://www.grabient.com/)
-- [Pigment](https://pigment.shapefactory.co/)
-- [WebGradient](https://webgradients.com/)
-- [Color.lol](https://colors.lol/)
-- [ColorBox](https://colorbox.io/)
-- [ColorSpace](https://mycolor.space)
 
 ## 🎇 Lista de ilustrações
 
